@@ -1,1 +1,1 @@
-# slate-tutorial-1
+### Slate Mentions Tutorial
