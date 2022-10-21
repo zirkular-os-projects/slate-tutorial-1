@@ -2,4 +2,4 @@
 
 This is a tutiorial resource. You can find the tutorial on our website.
 
-(https://dev.to/zirkular/slate-editor-in-10min-with-nextjs-and-ts-141l)[link]
+[link](https://dev.to/zirkular/slate-editor-in-10min-with-nextjs-and-ts-141l)
